@@ -3,6 +3,12 @@
 
 Daily crypto market information data visualization art experiments
 
+Fork from: [daily-crypto](https://github.com/madjin/daily-crypto)
+
+## Large number 3d visualization script
+![one trillion dollars](./trillion2.png)
+Example of the kind of visualization this can generate.
+Results are optimized using the GLTF instancing extension.
 
 ## Fetch Prices
 
